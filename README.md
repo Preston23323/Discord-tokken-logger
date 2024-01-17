@@ -2,7 +2,6 @@
 <p align="center">
 <a href="https://github.com/Rdimo/DiscordRAT#setting-up-the-rat">Setting up the RAT</a> |
 <a href="https://github.com/Rdimo/DiscordRAT#commands">Commands</a> |
-<a href="https://github.com/Rdimo/DiscordRAT#credits">Credits</a> |
 <a href="https://Cheataway.com">Discord</a>
 </p>
 ### 📁・Setting up the RAT
